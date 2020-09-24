@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "roIsjPBJUdkuthHy0lJWeZH4jj5BZR710qjjIWR/Z0GSsHUVwQWPNookST+QD2KrISToJlDA0mViUUNXDJya4g==",
+  "dgSpecHash": "CecuDXUmSSfAjJ91jT7vl3A4d/BmRYiFWME/fuV7wF5P7TWctWfAVwrKWlCcNsRGJa+hc24Y6ClDMYFDGimWmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\giova\\source\\repos\\Nyous\\Nyous\\Nyous.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\giova\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.7\\microsoft.aspnetcore.authentication.jwtbearer.3.1.7.nupkg.sha512",
     "C:\\Users\\giova\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\giova\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\giova\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
