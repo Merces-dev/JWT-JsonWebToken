@@ -20,7 +20,7 @@ namespace Nyous.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
-        NyousContext _context = new NyousContext();
+       private NyousContext _context = new NyousContext();
 
         // Definimos uma variável para percorrer nossos métodos com as configurações obtidas no appsettings.json
         private IConfiguration _config;
